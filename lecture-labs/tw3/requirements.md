@@ -1,6 +1,6 @@
-## Newspaper Photo Repository
+# Newspaper Photo Repository
 
-# Who are the Stakeholders?
+## Who are the Stakeholders?
 
 Editor
 
@@ -26,7 +26,7 @@ Super Users (subscribers who are freelance photographers)
 
  
 
-# Who are the Users?
+## Who are the Users?
 
 Submitters
 
@@ -50,7 +50,7 @@ Manipulators
 
  
 
-# System Requirements:
+## System Requirements:
 
 Disk storage
 
@@ -72,7 +72,7 @@ Database
 
  
 
-# Functional Requirements
+## Functional Requirements
 
 Submitters
 
