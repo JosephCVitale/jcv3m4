@@ -24,13 +24,9 @@ b.       Can submit photos as well
 
 4.       General Users (subscribers)
 
-a.       Can only view images in post
-
-5.       Super Users (subscribers who are freelance photographers)
+a.       Send photos to editors
 
  
-
-a.       Can only submit photos
 
  
 
@@ -42,19 +38,11 @@ Photographers
 
 Journalist
 
-Super user
+Subscribers
 
 Viewers
 
-All Users only in post
-
-Super users and above can view photo repository
-
-Manipulators
-
-Can edit photos
-
-Editors, photographers, journalists
+All Users
 
  
 
@@ -64,23 +52,19 @@ Disk storage
 
 User storage size
 
-Super users have limited size of submission
+Subscribers have limited size of submission
 
 ·        10 photos
-
-·        All photos store original unedited version
 
  
 
 Web interface
 
-Super users can view only
+Users can view only
 
 Editor/Photographer
 
 Add remove manipulate photos
-
- 
 
 Database
 
@@ -92,13 +76,9 @@ Submitters
 
 Upload picture
 
-Give description
-
-Auto timestamp
+Give description, time, location
 
 Decide Who has acess to view the photos
-
-Basic editing options
 
  
 
@@ -115,5 +95,3 @@ Commenting
 Follow photographer, gain notifications
 
 Download photos
-
-Only editors and photographers can view original version
