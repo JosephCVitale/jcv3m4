@@ -1,97 +1,103 @@
-Newspaper Photo Repository
+## Newspaper Photo Repository
 
-official and Userphotos
+# Who are the Stakeholders?
 
- 
+Editor
 
- 
-
-Who are the Stakeholders?
-
-1.       Editor
-
-a.       View all photos sent to them
-
-2.       Photographers
-
-a.       View all of only their photos
-
-3.       Journalist
-
-a.       Photos sent to them
-
-b.       Can submit photos as well
-
-4.       General Users (subscribers)
-
-a.       Send photos to editors
-
- 
-
- 
-
-Who are the Users?
-
-Submitters
+- View all photos sent to them
 
 Photographers
 
+- View all of only their photos
+
 Journalist
 
-Subscribers
+- Photos sent to them
+
+- Can submit photos as well
+
+General Users (subscribers)
+
+- Can only view images in post
+
+Super Users (subscribers who are freelance photographers)
+
+- Can only submit photos
+
+ 
+
+# Who are the Users?
+
+Submitters
+
+- Photographers
+
+- Journalist
+
+- Super user
 
 Viewers
 
-All Users
+- All Users only in post
+
+- Super users and above can view photo repository
+
+Manipulators
+
+- Can edit photos
+
+- Editors, photographers, journalists
 
  
 
-System Requirements:
+# System Requirements:
 
 Disk storage
 
-User storage size
+- User storage size
 
-Subscribers have limited size of submission
+- Super users have limited size of submission
 
-·        10 photos
+- 10 photos
 
- 
+- All photos store original unedited version
 
 Web interface
 
-Users can view only
+- Super users can view only
 
-Editor/Photographer
-
-Add remove manipulate photos
+- Editor/Photographer can add remove manipulate photos
 
 Database
 
  
 
-Functional Requirements
+# Functional Requirements
 
 Submitters
 
-Upload picture
+- Upload picture
 
-Give description, time, location
+- Give description
 
-Decide Who has acess to view the photos
+- Auto timestamp
 
- 
+- Decide Who has access to view the photos
+
+- Basic editing options 
 
 Viewers
 
-View photos
+- View photos
 
-Search by location/time/keyword
+- Search by location/time/keyword
 
-Like and share photo
+- Like and share photo
 
-Commenting
+- Commenting
 
-Follow photographer, gain notifications
+- Follow photographer, gain notifications
 
-Download photos
+- Download photos
+
+- Only editors and photographers can view original version
