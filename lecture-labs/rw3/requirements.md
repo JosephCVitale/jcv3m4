@@ -1,4 +1,6 @@
-# Requirements
+# Requirementshttps://github.com/JosephCVitale/jcv3m4/blob/master/lecture-labs/rw3/requirements.md
+
+## pawprints: jcv3m4, rhd45, xlgvx, wfghd, mclr47
 
 1. Data should be partitioned so that retrieval and input of data is faster. 2, 2
 2. Import libraries to increase efficiency. 1, 1 
