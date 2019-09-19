@@ -1,0 +1,2 @@
+#Python Testing
+We went over the basics of python testing with pytest. A test must start with test in the name. Then when pytest runs the file with the test, it determines if the test passes or fails. Tests can assert some statement. The test passes when the statement is true and fails when the statement is false. You assert that an error occurs using pytest.raises, and then handle it within the test. The test passes if the exception is raised, and fails if it is not. 
